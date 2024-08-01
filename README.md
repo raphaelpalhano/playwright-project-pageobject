@@ -45,7 +45,7 @@ Olá! Esse projeto contém uma baseline de um projeto referente a automação de
 
   
 
-1. Para realizar o clone do projeto através do método HTTPS, utilize o comando `https://gitlab.com/qualitymap/baselines/front-end/pw-web.git`
+1. Para realizar o clone do projeto através do método HTTPS, utilize o comando git clone url
 
 2. É possível clonar o o projeto através do SourceTree, clicando em “+”, e sem seguida em “Clone”, onde você irá colar o comando informado acima;
 
