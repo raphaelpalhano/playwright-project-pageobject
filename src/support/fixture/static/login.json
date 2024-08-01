@@ -1,0 +1,12 @@
+
+{
+    "valid": {
+      "email": "rafa1234@gmail.com",
+      "password": "123456"
+    },
+  "invalid": {
+      "email": "fulanso@qa.com",
+      "password": "123241231231231"
+    }
+ 
+}
